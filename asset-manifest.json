@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TailoredResearchPlatform/static/css/main.000d8b6a.css",
+    "main.js": "/TailoredResearchPlatform/static/js/main.46fa039e.js",
+    "static/js/453.af234422.chunk.js": "/TailoredResearchPlatform/static/js/453.af234422.chunk.js",
+    "index.html": "/TailoredResearchPlatform/index.html",
+    "main.000d8b6a.css.map": "/TailoredResearchPlatform/static/css/main.000d8b6a.css.map",
+    "main.46fa039e.js.map": "/TailoredResearchPlatform/static/js/main.46fa039e.js.map",
+    "453.af234422.chunk.js.map": "/TailoredResearchPlatform/static/js/453.af234422.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.000d8b6a.css",
+    "static/js/main.46fa039e.js"
+  ]
+}
