@@ -1,0 +1,354 @@
+{
+  "total": 47291,
+  "offset": 100,
+  "next": 110,
+  "data": [
+    {
+      "paperId": "20c1d614ed1fd33f87fbf3422dfcb7dfb61f87cb",
+      "url": "https://www.semanticscholar.org/paper/20c1d614ed1fd33f87fbf3422dfcb7dfb61f87cb",
+      "title": "Nursing Care Systematization with Case-Based Reasoning and Artificial Intelligence",
+      "abstract": "Of the most popular applications of artificial intelligence (AI), those used in the health sector are the ones that represent the largest proportion, in terms of use and expectation. An investigative systematization model is proposed in the scientific training of nursing professionals, by articulating epistemological positions from previous studies on the subject. In order to validate the model proposed, a prototype was created to present an application that could help nurses in their clinical processes, storing their experiences in a case base for future research. The prototype consisted of digitizing paediatric nursing diagnoses and inserting them into a case base in order to assess the effectiveness of the prototype in handling these cases in a structure conducive to retrieval, adaptation, indexing, and case comparison. This work presents as a result a computational tool for the health area, employing one of the artificial intelligence techniques, case-based reasoning (CBR). The small governmental nursing education institution in Bangladesh used in this study did not yet have the systemization of nursing care (NCS) and computerized support scales.",
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "A prototype was created to present an application that could help nurses in their clinical processes, storing their experiences in a case base for future research, employing one of the artificial intelligence techniques, case-based reasoning (CBR)."
+      },
+      "authors": [
+        {
+          "authorId": "97852614",
+          "name": "M. Alazzam"
+        },
+        {
+          "authorId": "9711180",
+          "name": "N. Tayyib"
+        },
+        {
+          "authorId": "93820580",
+          "name": "S. Alshawwa"
+        },
+        {
+          "authorId": "2154466120",
+          "name": "Md. Kawser Ahmed"
+        }
+      ]
+    },
+    {
+      "paperId": "4243b2b11aa88bdcf1b40a863c8769dba65508ce",
+      "url": "https://www.semanticscholar.org/paper/4243b2b11aa88bdcf1b40a863c8769dba65508ce",
+      "title": "An overview and a roadmap for artificial intelligence in hematology and oncology",
+      "abstract": null,
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This article provides an expert-based consensus statement by the joint Working Group on “Artificial Intelligence in Hematology and Oncology” by the DGHO, and provides a conceptual framework for AI in hematology and oncology, which is deliberately set in a narrow frame to mainly include the technical developments of the last ten years."
+      },
+      "authors": [
+        {
+          "authorId": "2096234557",
+          "name": "Wiebke Rösler"
+        },
+        {
+          "authorId": "9742089",
+          "name": "M. Altenbuchinger"
+        },
+        {
+          "authorId": "1924789",
+          "name": "B. Baessler"
+        },
+        {
+          "authorId": "4472076",
+          "name": "T. Beissbarth"
+        },
+        {
+          "authorId": "89307364",
+          "name": "G. Beutel"
+        },
+        {
+          "authorId": "2070626955",
+          "name": "R. Bock"
+        },
+        {
+          "authorId": "5546605",
+          "name": "N. von Bubnoff"
+        },
+        {
+          "authorId": "2034082291",
+          "name": "Jan-Niklas Eckardt"
+        },
+        {
+          "authorId": "6234552",
+          "name": "S. Foersch"
+        },
+        {
+          "authorId": "150952567",
+          "name": "C. Loeffler"
+        },
+        {
+          "authorId": "118354462",
+          "name": "J. Middeke"
+        },
+        {
+          "authorId": "2116235852",
+          "name": "Martha Mueller"
+        },
+        {
+          "authorId": "47061835",
+          "name": "T. Oellerich"
+        },
+        {
+          "authorId": "2211609365",
+          "name": "Benjamin Risse"
+        },
+        {
+          "authorId": "4547549",
+          "name": "A. Scherag"
+        },
+        {
+          "authorId": "6896549",
+          "name": "C. Schliemann"
+        },
+        {
+          "authorId": "144362901",
+          "name": "M. Scholz"
+        },
+        {
+          "authorId": "48692032",
+          "name": "R. Spang"
+        },
+        {
+          "authorId": "120127798",
+          "name": "C. Thielscher"
+        },
+        {
+          "authorId": "2085964264",
+          "name": "I. Tsoukakis"
+        },
+        {
+          "authorId": "3955759",
+          "name": "Jakob Nikolas Kather"
+        }
+      ]
+    },
+    {
+      "paperId": "00fe3687b6ba497a371827cf84e42a37c1ae1857",
+      "url": "https://www.semanticscholar.org/paper/00fe3687b6ba497a371827cf84e42a37c1ae1857",
+      "title": "Harnessing the power of artificial intelligence to transform hearing healthcare and research",
+      "abstract": null,
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "There is an urgent need to push hearing towards a future in which artificial intelligence provides critical support for the testing of hypotheses, the development of therapies and the effective delivery of care worldwide."
+      },
+      "authors": [
+        {
+          "authorId": "3079610",
+          "name": "N. Lesica"
+        },
+        {
+          "authorId": "144342284",
+          "name": "Nishchay Mehta"
+        },
+        {
+          "authorId": "5972811",
+          "name": "J. Manjaly"
+        },
+        {
+          "authorId": "2144056660",
+          "name": "Li Deng"
+        },
+        {
+          "authorId": "3077752",
+          "name": "B. Wilson"
+        },
+        {
+          "authorId": "144486525",
+          "name": "F. Zeng"
+        }
+      ]
+    },
+    {
+      "paperId": "fd41c526ab65ef21a43dfd2b427f8eaeea6c35ce",
+      "url": "https://www.semanticscholar.org/paper/fd41c526ab65ef21a43dfd2b427f8eaeea6c35ce",
+      "title": "The rise of artificial intelligence in healthcare applications",
+      "abstract": null,
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "In this chapter, some of the major applications of AI in healthcare will be discussed covering both the applications that are directly associated with healthcare and those in the healthcare value chain such as drug development and ambient assisted living."
+      },
+      "authors": [
+        {
+          "authorId": "48420822",
+          "name": "A. Bohr"
+        },
+        {
+          "authorId": "40393670",
+          "name": "K. Memarzadeh"
+        }
+      ]
+    },
+    {
+      "paperId": "257172937c109b398dd41db8272e0256eeef17cc",
+      "url": "https://www.semanticscholar.org/paper/257172937c109b398dd41db8272e0256eeef17cc",
+      "title": "A Scientometric Study of Artificial Intelligence in the Health Care Sector",
+      "abstract": "The increasing application of Artificial Intelligence usage in health care and medicine has attracted considerable research interest in the recent past. The objective of this paper was to provide a scientometric analysis of artificial intelligence in the healthcare sector. The momentum gained by artificial intelligence and information technology gave impetus and importance to health care. The researchers used the Scopus database to extract the papers. VosViewer tool was employed for advanced analysis, whereas Microsoft Excel was used in depicting graphical representation. The study summarises the research conducted by different authors, various universities and countries to extend the benefits of artificial intelligence to healthcare. This paper would be of some help to practitioners and researchers in the healthcare sector to know more about AI in healthcare.",
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The study summarises the research conducted by different authors, various universities and countries to extend the benefits of artificial intelligence to healthcare and offers some help to practitioners and researchers in the healthcare sector to know more about AI in healthcare."
+      },
+      "authors": [
+        {
+          "authorId": "80392252",
+          "name": "A. Khurana"
+        },
+        {
+          "authorId": "2230766220",
+          "name": "Vv Ravikumar"
+        },
+        {
+          "authorId": "2221860336",
+          "name": "Vinod Kumar"
+        }
+      ]
+    },
+    {
+      "paperId": "b4949ba10bd71dd1be2652a75a860524c4b66266",
+      "url": "https://www.semanticscholar.org/paper/b4949ba10bd71dd1be2652a75a860524c4b66266",
+      "title": "Artificial Intelligence in Healthcare: Foundations, Opportunities and Challenges",
+      "abstract": null,
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The challenges in and around AI research, the impact of AI on the authors' society, fears, education and the need for data literacy for everyone, including physicians and patients are discussed."
+      },
+      "authors": [
+        {
+          "authorId": "3109852",
+          "name": "Patrick O. Glauner"
+        }
+      ]
+    },
+    {
+      "paperId": "515e4277a268ff7fd83ddfd355503bf9c9e5ede7",
+      "url": "https://www.semanticscholar.org/paper/515e4277a268ff7fd83ddfd355503bf9c9e5ede7",
+      "title": "Key considerations for the use of artificial intelligence in healthcare and clinical research",
+      "abstract": "ABSTRACT Interest in artificial intelligence (AI) has grown exponentially in recent years, attracting sensational headlines and speculation. While there is considerable potential for AI to augment clinical practice, there remain numerous practical implications that must be considered when exploring AI solutions. These range from ethical concerns about algorithmic bias to legislative concerns in an uncertain regulatory environment. In the absence of established protocols and examples of best practice, there is a growing need for clear guidance both for innovators and early adopters. Broadly, there are three stages to the innovation process: invention, development and implementation. In this paper, we present key considerations for innovators at each stage and offer suggestions along the AI development pipeline, from bench to bedside.",
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "This paper presents key considerations for innovators at each stage and offers suggestions along the AI development pipeline, from bench to bedside, in the absence of established protocols and examples of best practice."
+      },
+      "authors": [
+        {
+          "authorId": "51896108",
+          "name": "C. Lovejoy"
+        },
+        {
+          "authorId": "1750918952",
+          "name": "Anmol Arora"
+        },
+        {
+          "authorId": "2067217684",
+          "name": "V. Buch"
+        },
+        {
+          "authorId": "1928459910",
+          "name": "I. Dayan"
+        }
+      ]
+    },
+    {
+      "paperId": "77e3b5875a055a0a5b7ad96ee8cd5aabea9c99d1",
+      "url": "https://www.semanticscholar.org/paper/77e3b5875a055a0a5b7ad96ee8cd5aabea9c99d1",
+      "title": "The Role of Artificial Intelligence in Emergency Medicine: A Comprehensive Overview",
+      "abstract": "In the era of the development of information technology, artificial intelligence has become a vital part of the process of developing electronic applications and platforms. Recent years have witnessed tremendous growth in the adoption of artificial intelligence and machine learning techniques in healthcare services and helping healthcare workers to track patients and produce medicines, as well as in emergency medicine. The possibilities of artificial intelligence in the medical domain are enormous and include magnetic imaging applications, disease prediction, continuous monitoring of vital signs, and monitoring the spread of epidemics. This article will discuss the importance and role of artificial intelligence in emergency medicine while highlighting its profitable contributions to assisting healthcare workers.",
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The importance and role of artificial intelligence in emergency medicine is discussed while highlighting its profitable contributions to assisting healthcare workers."
+      },
+      "authors": []
+    },
+    {
+      "paperId": "9ce404712df66c1aa47cb68d2d35ccdb085362ae",
+      "url": "https://www.semanticscholar.org/paper/9ce404712df66c1aa47cb68d2d35ccdb085362ae",
+      "title": "Artificial Intelligence Applications in Health Care Practice: Scoping Review",
+      "abstract": "Background Artificial intelligence (AI) is often heralded as a potential disruptor that will transform the practice of medicine. The amount of data collected and available in health care, coupled with advances in computational power, has contributed to advances in AI and an exponential growth of publications. However, the development of AI applications does not guarantee their adoption into routine practice. There is a risk that despite the resources invested, benefits for patients, staff, and society will not be realized if AI implementation is not better understood. Objective The aim of this study was to explore how the implementation of AI in health care practice has been described and researched in the literature by answering 3 questions: What are the characteristics of research on implementation of AI in practice? What types and applications of AI systems are described? What characteristics of the implementation process for AI systems are discernible? Methods A scoping review was conducted of MEDLINE (PubMed), Scopus, Web of Science, CINAHL, and PsycINFO databases to identify empirical studies of AI implementation in health care since 2011, in addition to snowball sampling of selected reference lists. Using Rayyan software, we screened titles and abstracts and selected full-text articles. Data from the included articles were charted and summarized. Results Of the 9218 records retrieved, 45 (0.49%) articles were included. The articles cover diverse clinical settings and disciplines; most (32/45, 71%) were published recently, were from high-income countries (33/45, 73%), and were intended for care providers (25/45, 56%). AI systems are predominantly intended for clinical care, particularly clinical care pertaining to patient-provider encounters. More than half (24/45, 53%) possess no action autonomy but rather support human decision-making. The focus of most research was on establishing the effectiveness of interventions (16/45, 35%) or related to technical and computational aspects of AI systems (11/45, 24%). Focus on the specifics of implementation processes does not yet seem to be a priority in research, and the use of frameworks to guide implementation is rare. Conclusions Our current empirical knowledge derives from implementations of AI systems with low action autonomy and approaches common to implementations of other types of information systems. To develop a specific and empirically based implementation framework, further research is needed on the more disruptive types of AI systems being implemented in routine care and on aspects unique to AI implementation in health care, such as building trust, addressing transparency issues, developing explainable and interpretable solutions, and addressing ethical concerns around privacy and data protection.",
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "To develop a specific and empirically based implementation framework, further research is needed on the more disruptive types of AI systems being implemented in routine care and on aspects unique to AI implementation in health care, such as building trust, addressing transparency issues, developing explainable and interpretable solutions, and addressing ethical concerns around privacy and data protection."
+      },
+      "authors": [
+        {
+          "authorId": "2110202004",
+          "name": "Malvika Sharma"
+        },
+        {
+          "authorId": "4712630",
+          "name": "Carl Savage"
+        },
+        {
+          "authorId": "2183551660",
+          "name": "Monika Nair"
+        },
+        {
+          "authorId": "2071171469",
+          "name": "Ingrid Larsson"
+        },
+        {
+          "authorId": "3012694",
+          "name": "P. Svedberg"
+        },
+        {
+          "authorId": "49900973",
+          "name": "J. Nygren"
+        }
+      ]
+    },
+    {
+      "paperId": "cc3b0cfd2bbf45bf2ec206eb0e3118d5d49af04c",
+      "url": "https://www.semanticscholar.org/paper/cc3b0cfd2bbf45bf2ec206eb0e3118d5d49af04c",
+      "title": "Artificial Intelligence for Automatic Pain Assessment: Research Methods and Perspectives",
+      "abstract": "Although proper pain evaluation is mandatory for establishing the appropriate therapy, self-reported pain level assessment has several limitations. Data-driven artificial intelligence (AI) methods can be employed for research on automatic pain assessment (APA). The goal is the development of objective, standardized, and generalizable instruments useful for pain assessment in different clinical contexts. The purpose of this article is to discuss the state of the art of research and perspectives on APA applications in both research and clinical scenarios. Principles of AI functioning will be addressed. For narrative purposes, AI-based methods are grouped into behavioral-based approaches and neurophysiology-based pain detection methods. Since pain is generally accompanied by spontaneous facial behaviors, several approaches for APA are based on image classification and feature extraction. Language features through natural language strategies, body postures, and respiratory-derived elements are other investigated behavioral-based approaches. Neurophysiology-based pain detection is obtained through electroencephalography, electromyography, electrodermal activity, and other biosignals. Recent approaches involve multimode strategies by combining behaviors with neurophysiological findings. Concerning methods, early studies were conducted by machine learning algorithms such as support vector machine, decision tree, and random forest classifiers. More recently, artificial neural networks such as convolutional and recurrent neural network algorithms are implemented, even in combination. Collaboration programs involving clinicians and computer scientists must be aimed at structuring and processing robust datasets that can be used in various settings, from acute to different chronic pain conditions. Finally, it is crucial to apply the concepts of explainability and ethics when examining AI applications for pain research and management.",
+      "tldr": {
+        "model": "tldr@v2.0.0",
+        "text": "The purpose of this article is to discuss the state of the art of research and perspectives on APA applications in both research and clinical scenarios, and principles of AI functioning will be addressed."
+      },
+      "authors": [
+        {
+          "authorId": "7547313",
+          "name": "M. Cascella"
+        },
+        {
+          "authorId": "2199121263",
+          "name": "Daniela Schiavo"
+        },
+        {
+          "authorId": "47341086",
+          "name": "A. Cuomo"
+        },
+        {
+          "authorId": "5212791",
+          "name": "A. Ottaiano"
+        },
+        {
+          "authorId": "66139886",
+          "name": "Francesco Perri"
+        },
+        {
+          "authorId": "5936961",
+          "name": "R. Patrone"
+        },
+        {
+          "authorId": "2221191657",
+          "name": "Sara Migliarelli"
+        },
+        {
+          "authorId": "4155267",
+          "name": "E. Bignami"
+        },
+        {
+          "authorId": "36030492",
+          "name": "Alessandro Vittori"
+        },
+        {
+          "authorId": "2146604609",
+          "name": "Francesco Cutugno"
+        }
+      ]
+    }
+  ]
+}
