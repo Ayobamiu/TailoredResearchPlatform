@@ -56,7 +56,6 @@ async function fetchResearchPapers(query: string) {
     const response = await axios.get(endpoint, {
       params: {
         query: query,
-        offset: 100,
         fields: "url,abstract,authors,tldr,title,openAccessPdf,isOpenAccess",
       },
       headers: {
